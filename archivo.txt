@@ -1,0 +1,5 @@
+funcione
+
+readFile => lectura de un archivo de forma asincrona
+readFileSync => lectura de un archivo de forma sincrona
+
